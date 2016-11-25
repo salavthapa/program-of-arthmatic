@@ -10,7 +10,7 @@ Date:2016-11-25
 #include<stdio.h>
 int main(){
     int a;
-    printf("E                                                                                                     nter the number:\n");
+    printf("Enter the number:\n);                                                                                                     nter the number:\n");
     scanf("%d",&a);
     if("n>0");
     {
